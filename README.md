@@ -6,7 +6,7 @@
 Problem Statement
 
 1.	Total Revenue
-2.	2. Average Order Value
+2.	Average Order Value
 3.	Total Items Sold
 4.	Total Orders
 5.	Average Items Per Order
